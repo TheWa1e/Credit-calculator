@@ -1,0 +1,10 @@
+C:\Users\the_w\source\repos\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\the_w\source\repos\MainForm\bin\Debug\MainForm.exe
+C:\Users\the_w\source\repos\MainForm\bin\Debug\MainForm.pdb
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.exe
+C:\Users\the_w\source\repos\MainForm\obj\Debug\MainForm.pdb
